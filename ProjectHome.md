@@ -1,0 +1,1 @@
+Project DLA is a Digital Life Assistant based on AppleScript and intended to be used on Apple Macintosh computers running OS X.
